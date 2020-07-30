@@ -4,7 +4,6 @@ predict sales for each Store-Day level for one month.
 Project Task: Week 1
 
 Exploratory Data Analysis (EDA) and Linear Regression:
-
 1.      Transform the variables by using data manipulation techniques like, One-Hot Encoding 
 2.      Perform an EDA (Exploratory Data Analysis) to see the impact of variables over Sales.
 3.      Apply Linear Regression to predict the forecast and evaluate different accuracy metrices like RMSE (Root Mean Squared Error)
