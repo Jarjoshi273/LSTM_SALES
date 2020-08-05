@@ -22,12 +22,15 @@ Other Regression Techniques:
 
 
 a)    Trained a single model for all stores, where storeId can be a feature.
+
+
 b)    Trained separate models for each store.
       (performed Dimensional Reduction techniques like, PCA and Tree’s Hyperparameter Tuning and Cross-validate to find the best parameters.) 
       
 3 Compared the performance of Linear Model and Non-Linear Model from the previous observations.
 
 4. Trained a Time-series model on the data taking time as the only feature. This was a store-level training.
+
 a)    Identified yearly trends and seasonal months.
  
 
