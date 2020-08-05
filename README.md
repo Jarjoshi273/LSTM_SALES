@@ -19,6 +19,8 @@ Other Regression Techniques:
 
 1. When store is closed, sales = 0.  Performed this and retrained the model.
 2. Used Non-Linear Regressors like Random Forest and Tree-based Regressors.
+
+
 a)    Trained a single model for all stores, where storeId can be a feature.
 b)    Trained separate models for each store.
       (performed Dimensional Reduction techniques like, PCA and Tree’s Hyperparameter Tuning and Cross-validate to find the best parameters.) 
