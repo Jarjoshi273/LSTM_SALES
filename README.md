@@ -19,13 +19,14 @@ Other Regression Techniques:
 
 1. When store is closed, sales = 0.  Performed this and retrained the model.
 2. Used Non-Linear Regressors like Random Forest and Tree-based Regressors.
-       a)    Trained a single model for all stores, where storeId can be a feature.
-       b)    Trained separate models for each store.
-           performed Dimensional Reduction techniques like, PCA and Tree’s Hyperparameter Tuning and Cross-validate to find the
-           best parameters. 
+a)    Trained a single model for all stores, where storeId can be a feature.
+b)    Trained separate models for each store.
+      (performed Dimensional Reduction techniques like, PCA and Tree’s Hyperparameter Tuning and Cross-validate to find the best parameters.) 
+      
 3 Compared the performance of Linear Model and Non-Linear Model from the previous observations.
+
 4. Trained a Time-series model on the data taking time as the only feature. This was a store-level training.
-       a)    Identified yearly trends and seasonal months.
+a)    Identified yearly trends and seasonal months.
  
 
 Project Task: Week 3
@@ -34,5 +35,5 @@ Implementied Neural Networks:
 
 Trained a LSTM on the same set of features and compare the result with traditional time-series model.
 
-Cluster stores using sales and customer visits as features. Find out how many clusters or groups are possible. Also visualize the results.
+Cluster stores using sales and customer visits as features. Find out how many clusters or groups are possible. Also visualized the results.
 
