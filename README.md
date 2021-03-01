@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA) and Linear Regression:
 3.      Applied Linear Regression to predicted the forecast and evaluated different accuracy metrices like RMSE (Root Mean Squared Error)
          and MAE(Mean Absolute Error).
          
-         a)      Trained a single model for all stores, using storeId as a feature.
+         a)      Trained a single model for all stores.
          b)      Trained separate model for each store.
         
 
